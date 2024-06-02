@@ -18,6 +18,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Screenshot
-![Alt Text] (/Users/anson/bootcamp/bootcamp-work/wk-1/module-1-challenge/Develop/assets/images/module-1-challenge-screenshot.png/>)
+![Screenshot of updated website] (assets/images/module-1-challenge-screenshot.png)
 
 ## Links
