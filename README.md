@@ -19,8 +19,15 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-## Screenshot
-![Screenshot-of-webpage](Develop/assets/images/module-1-challenge-screenshot.png)
+## Screenshots
+Desktop
+![Screenshot-of-webpage-desktop](Develop/assets/images/module-1-challenge-desktop-screenshot.png)
+
+Mobile
+![Screenshot-of-webpage-mobile](Develop/assets/images/module-1-challenge-mobile-screenshot.png)
+
+Tablet
+![Screenshot-of-webpage-tablet](Develop/assets/images/module-1-challenge-tablet-screenshot.png)
 
 ## Links
 Website URL https://ansonldoublee.github.io/module-1-challenge/
