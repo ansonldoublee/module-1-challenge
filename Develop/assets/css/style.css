@@ -324,6 +324,7 @@ footer .h2 {
 
   }
 
+  /* This is a hamburger menu, only visible at max width 600px */
   @media screen and (min-width: 600px){
     #hamburger-menu {
         display:none;
