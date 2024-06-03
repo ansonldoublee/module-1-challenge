@@ -21,13 +21,16 @@ THEN I find a concise, descriptive title
 
 ## Screenshots
 Desktop
-![Screenshot-of-webpage-desktop](Develop/assets/images/module-1-challenge-desktop-screenshot.png)
+<br/>
+<img src="Develop/assets/images/module-1-challenge-desktop-screenshot.png" width="300" alt="desktop-screenshot"/>
 
 Mobile
-![Screenshot-of-webpage-mobile](Develop/assets/images/module-1-challenge-mobile-screenshot.png)
+<br/>
+<img src="Develop/assets/images/module-1-challenge-mobile-screenshot.png" width="120" alt="mobile-screenshot"/>
 
 Tablet
-![Screenshot-of-webpage-tablet](Develop/assets/images/module-1-challenge-tablet-screenshot.png)
+<br/>
+<img src="Develop/assets/images/module-1-challenge-tablet-screenshot.png" width="200" alt="tablet"/>
 
 ## Links
 Website URL https://ansonldoublee.github.io/module-1-challenge/
